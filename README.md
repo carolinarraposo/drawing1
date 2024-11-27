@@ -1,8 +1,11 @@
 Este package ilustra o desenvolvimento de um drawing
 
-##Instalation
+## Instalation
+````bash
 pip install git+https://github.com/carolinarraposo/drawing1.git
-
-##Usage
+```` 
+## Usage
+````bash
 from drawing.colors import *
 from drawing.shapes import *
+````
